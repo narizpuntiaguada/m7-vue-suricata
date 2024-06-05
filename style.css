@@ -1,0 +1,46 @@
+/* colores letras */
+
+.text-principal{
+   
+    color: #5E1675 !important;
+}
+
+.text-secundario{
+    color: #EE4266 !important;
+}
+.text-terciario{
+color: #FFD23F !important;
+}
+
+
+.text-cuaternario{
+color: #11235A !important;
+}
+
+.text-quinario{
+
+    color: #E65C19 !important;
+}
+
+.text-sextenario{
+color: #006E7F !important;
+}
+/* colores background */
+.bg-principal{
+    background-color: #824D74 !important;
+}
+
+/* tipo de letras */
+.lato-bold {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  .lato-bold-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+
